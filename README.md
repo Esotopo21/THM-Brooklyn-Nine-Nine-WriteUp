@@ -49,7 +49,7 @@ I downloaded the picture and tried to extract datas from it:
 Enter passhphrase:
 ```
 
-It asked for a passphrase which I tried to break with stegseek (https://github.com/RickdeJager/stegseek)
+It asked for a passphrase which I tried to crack with stegseek (https://github.com/RickdeJager/stegseek)
 
 ```
 └─# stegseek brooklyn99.jpg /usr/share/wordlists/rockyou.txt 
